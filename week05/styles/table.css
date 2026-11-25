@@ -1,0 +1,29 @@
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(117, 116, 116);
+    letter-spacing: 1px;
+}
+th, td {
+    border: 1px solid #a3a1a1;
+    padding: 8px 12px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+thead tr, tfoot tr {
+    background-color: black;
+    color: white;
+    font-weight: 700;
+}
+.edit {
+    background-color: #dddcdc;
+}
+caption {
+    text-align: center;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid #a3a1a1;
+    background-color: black;
+}
